@@ -4,7 +4,7 @@ Maze solving program uses an adjacency list (for memory efficiency) and a modifi
 
 
 <img width="771" alt="Screenshot 2023-12-24 at 2 25 38 PM" src="https://github.com/norgera/Maze-Solving/assets/95401214/c66bcad0-10d4-4ba6-ae0f-6f1f74a43b7c">
-39x36 maze <br/> <br/>
+ <br/>39x36 maze <br/>
 
 
 <img width="1294" alt="1800x1800" src="https://github.com/norgera/Maze-Solving/assets/95401214/2d8b6e5a-5835-458e-b390-98579d739a31">
