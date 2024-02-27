@@ -1,4 +1,4 @@
-# Maze solving program
+# PathX
 Using graph theory and a modified DFS traversal. <br/>
 Solves a maze given a fixed amount of coins to open priced doors.
 
