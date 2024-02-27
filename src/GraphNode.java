@@ -1,13 +1,3 @@
-/**
- * Assignment 5 - CS 2210A
- * This program implements graph theory to solve a maze when given an input file.
- * This program uses an adjacency matrix to organize the graph.
- * 
- * @author Nathan Orgera
- * @date December 7, 2023
- */
-
-
 public class GraphNode {
 
     // Instance variables
