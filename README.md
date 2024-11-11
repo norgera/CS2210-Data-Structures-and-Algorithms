@@ -1,7 +1,6 @@
 # Labyrinth
-Using graph theory and a modified DFS traversal. <br/>
-Solves a maze given a fixed amount of coins to open priced doors.
-
+Maze solver using graph theory and a modified DFS traversal.
+<br/>
 <img width="494" alt="Screenshot 2023-12-24 at 2 23 51 PM" src="https://github.com/norgera/Maze-Solving/assets/95401214/847484ed-66dc-4fd4-8cbf-985ea31ecf9b"> <br/> <br/> 
 
 39x36 maze:
